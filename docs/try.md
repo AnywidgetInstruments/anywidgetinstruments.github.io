@@ -47,5 +47,7 @@ Speedometers, tachometers, tell-tales, trip computers and clusters, from
 
 ## Aeronautics
 
-[anywidget-instruments-aeronautics](anywidget-instruments-aeronautics/) is at
-the design stage: its demos will come with its first widgets.
+The basic six flight instruments of
+[anywidget-instruments-aeronautics](anywidget-instruments-aeronautics/) are
+written; their [catalog](anywidget-instruments-aeronautics/widgets/) shows them,
+and in-browser demos come next.
