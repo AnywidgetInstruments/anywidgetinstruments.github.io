@@ -14,7 +14,8 @@ hide:
 **Instrument panels for notebooks, dashboards and the web.** Knobs, gauges,
 tanks, LEDs, switches, strip charts and alarm annunciators for industrial
 processes; speedometers, tachometers, tell-tales and clusters for vehicles;
-flight instruments next. Built on [anywidget](https://anywidget.dev), usable
+airspeed, attitude,
+altimeter, turn, heading and vertical speed indicators for aircraft. Built on [anywidget](https://anywidget.dev), usable
 from Python, Julia and Grafana.
 
 <div class="brand-buttons" markdown>
