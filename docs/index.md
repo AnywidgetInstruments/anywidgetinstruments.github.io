@@ -52,8 +52,8 @@ marimo, VS Code, Colab, Pluto, standalone HTML pages and Grafana dashboards.
 | Host | Links | |
 |---|---|---|
 | **Python**<br><code>anywidget-instruments-industrial</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](anywidget-instruments-industrial/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/anywidget-instruments-industrial) | Jupyter, marimo and every anywidget host |
-| **Julia**<br><code>Anywidget.jl</code> | [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/Anywidget.jl) | anywidget front-end modules in Julia: standalone HTML, Jupyter, Pluto, Kaimon Slate |
-| **Julia**<br><code>AnywidgetInstruments.jl</code> | [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/AnywidgetInstruments.jl) | the instruments, hosted by Anywidget.jl |
+| **Julia**<br><code>Anywidget.jl</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](Anywidget.jl/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/Anywidget.jl) | anywidget front-end modules in Julia: standalone HTML, Jupyter, Pluto, Kaimon Slate |
+| **Julia**<br><code>AnywidgetInstruments.jl</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](AnywidgetInstruments.jl/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/AnywidgetInstruments.jl) | the instruments, hosted by Anywidget.jl |
 | **Grafana**<br><code>afm-host-panel</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](afm-host-panel/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/afm-host-panel) | a panel plugin running anywidget front-end modules, instruments built in |
 
 ## Safety
