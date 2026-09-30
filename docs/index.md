@@ -42,10 +42,10 @@ marimo, VS Code, Colab, Pluto, standalone HTML pages and Grafana dashboards.
 
 | Family | Links | Conventions | Status |
 |---|---|---|---|
-| **Core**<br><code>anywidget-instruments</code> | [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/anywidget-instruments) | | base view and Python class, trait contract, themes, liveness; every library depends on it |
+| **Core**<br><code>anywidget-instruments</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](anywidget-instruments/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/anywidget-instruments) | | base view and Python class, trait contract, themes, liveness; every library depends on it |
 | **Industrial**<br><code>anywidget-instruments-industrial</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](anywidget-instruments-industrial/) [![Live demos](brand/icons/try.svg){ width="20" }](anywidget-instruments-industrial/try/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/anywidget-instruments-industrial) | ISA-101, IEC 60073, ISA-18.2 | pre-alpha, 52 widgets |
 | **Automotive**<br><code>anywidget-instruments-automotive</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](anywidget-instruments-automotive/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/anywidget-instruments-automotive) | UN R121, ISO 2575, ISO 15008 | early implementation |
-| **Aeronautics** | | | planned |
+| **Aeronautics**<br><code>anywidget-instruments-aeronautics</code> | [![Documentation](brand/icons/docs.svg){ width="20" }](anywidget-instruments-aeronautics/) [![Source code](brand/icons/code.svg){ width="20" }](https://github.com/AnywidgetInstruments/anywidget-instruments-aeronautics) | CS-23 / CS-25, AC 25-11 | design stage |
 
 ## Hosts
 
