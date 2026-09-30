@@ -47,7 +47,10 @@ Speedometers, tachometers, tell-tales, trip computers and clusters, from
 
 ## Aeronautics
 
-The basic six flight instruments of
-[anywidget-instruments-aeronautics](anywidget-instruments-aeronautics/) are
-written; their [catalog](anywidget-instruments-aeronautics/widgets/) shows them,
-and in-browser demos come next.
+Airspeed, attitude, altimeter, turn coordinator, heading and vertical speed, from
+[anywidget-instruments-aeronautics](anywidget-instruments-aeronautics/). Not certified
+avionics, never to fly an aircraft.
+
+| Demo | What it shows |
+|---|---|
+| [**Flight instruments**](anywidget-instruments-aeronautics/marimo/flight/) | The basic six in the basic T, driven by sliders; the turn coordinator follows the rate of turn the bank gives at the airspeed |
