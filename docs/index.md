@@ -18,13 +18,13 @@ flight instruments next. Built on [anywidget](https://anywidget.dev), usable
 from Python, Julia and Grafana.
 
 <div class="brand-buttons" markdown>
-[![Try in the browser](brand/buttons/try-light.svg#only-light)![Try in the browser](brand/buttons/try-dark.svg#only-dark)](anywidget-instruments-industrial/try/)
+[![Try in the browser](brand/buttons/try-light.svg#only-light)![Try in the browser](brand/buttons/try-dark.svg#only-dark)](try/)
 [![Industrial documentation](brand/buttons/docs-industrial-light.svg#only-light)![Industrial documentation](brand/buttons/docs-industrial-dark.svg#only-dark)](anywidget-instruments-industrial/)
 [![Automotive documentation](brand/buttons/docs-automotive-light.svg#only-light)![Automotive documentation](brand/buttons/docs-automotive-dark.svg#only-dark)](anywidget-instruments-automotive/)
 [![Grafana panel documentation](brand/buttons/docs-grafana-light.svg#only-light)![Grafana panel documentation](brand/buttons/docs-grafana-dark.svg#only-dark)](afm-host-panel/)
 </div>
 
-The demos run in the browser (Python through Pyodide): nothing to install.
+The [demos](try/) run in the browser (Python through Pyodide): nothing to install.
 
 ## One front end, many hosts
 
