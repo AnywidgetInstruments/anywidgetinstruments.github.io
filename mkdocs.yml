@@ -1,0 +1,39 @@
+site_name: anywidget instruments
+site_description: Instrument panels for notebooks, dashboards and the web, built on anywidget.
+site_url: https://anywidgetinstruments.github.io/
+repo_url: https://github.com/AnywidgetInstruments
+repo_name: AnywidgetInstruments
+edit_uri: ""
+# Buildable offline, as the other sites of the family: no Google Fonts, no CDN assets.
+# docs/brand/ is not committed: it is fetched from AnywidgetInstruments/.github
+# (the visual identity) before the build, see README.md.
+theme:
+  name: material
+  font: false
+  logo: brand/mark-dark.svg
+  favicon: brand/mark-light.svg
+  features:
+    - content.code.copy
+  # System preference by default; the toggle cycles light, dark, system.
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle: { icon: material/brightness-auto, name: Switch to light mode }
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle: { icon: material/weather-sunny, name: Switch to dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle: { icon: material/weather-night, name: Switch to system preference }
+extra_css:
+  - stylesheets/brand.css
+nav:
+  - Home: index.md
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+  - admonition
