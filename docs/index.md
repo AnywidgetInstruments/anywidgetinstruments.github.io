@@ -21,6 +21,7 @@ from Python, Julia and Grafana.
 [![Try in the browser](brand/buttons/try-light.svg#only-light)![Try in the browser](brand/buttons/try-dark.svg#only-dark)](try/)
 [![Industrial documentation](brand/buttons/docs-industrial-light.svg#only-light)![Industrial documentation](brand/buttons/docs-industrial-dark.svg#only-dark)](https://anywidgetinstruments.github.io/anywidget-instruments-industrial/)
 [![Automotive documentation](brand/buttons/docs-automotive-light.svg#only-light)![Automotive documentation](brand/buttons/docs-automotive-dark.svg#only-dark)](https://anywidgetinstruments.github.io/anywidget-instruments-automotive/)
+[![Aeronautics documentation](brand/buttons/docs-aeronautics-light.svg#only-light)![Aeronautics documentation](brand/buttons/docs-aeronautics-dark.svg#only-dark)](https://anywidgetinstruments.github.io/anywidget-instruments-aeronautics/)
 [![Grafana panel documentation](brand/buttons/docs-grafana-light.svg#only-light)![Grafana panel documentation](brand/buttons/docs-grafana-dark.svg#only-dark)](https://anywidgetinstruments.github.io/afm-host-panel/)
 </div>
 
